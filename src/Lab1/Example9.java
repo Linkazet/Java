@@ -9,7 +9,7 @@ public class Example9 {
         System.out.println("Введите наименование месяца: ");
         String a = in.nextLine();
 
-        System.out.println("Введите количество дней в месяце : ");
+        System.out.println("Введите количество дней в месяце :");
         int b  = in.nextInt();
 
         System.out.println("В " + a + " содержится " + b + " дней");
