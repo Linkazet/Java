@@ -6,6 +6,6 @@ public class Example2 {
         System.out.println("num: " + num);
         num = num * 2;
 
-        System.out.println("num * 2 = " + num);
+        System.out.println("num  * 2 = " + num);
     }
 }
