@@ -14,7 +14,7 @@ public class Example3 {
         }
         s = s * d;
         if (s > d) {
-            System.out.println(" S > D");
+            System.out.println("S > D");
         }
 
     }
