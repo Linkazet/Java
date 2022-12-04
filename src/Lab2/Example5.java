@@ -9,6 +9,6 @@ public class Example5 {
         System.out.println("Введите число: ");
         int a = in.nextInt();
         double b = a / 1000;
-        System.out.println("Тысяч в числе: " + b);
+        System.out.println("Тысяч в числе: " + b%10);
     }
 }
